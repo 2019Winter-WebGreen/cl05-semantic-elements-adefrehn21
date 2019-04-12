@@ -1,0 +1,21 @@
+/*
+* Ashley DeFrehn
+* April 12, 2019
+* Padua Academy
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body{
+
+}
+
+header {background-color: yellow;}
+main {background-color: darkgray;}
+footer {background-color: yellow;}
